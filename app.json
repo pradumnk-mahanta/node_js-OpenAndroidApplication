@@ -1,0 +1,6 @@
+{
+  "name": "Open Android Application",
+  "description": "Opens Application",
+  "repository": "https://github.com/pradumnk-mahanta/node_js-OpenAndroidApplication",
+  "keywords": ["node", "express", "static"],
+}
