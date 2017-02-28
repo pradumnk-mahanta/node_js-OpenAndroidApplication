@@ -1,0 +1,10 @@
+
+
+
+#bottom-message{
+  position: fixed;
+  bottom: 0;
+  left: 12.5%;
+  width: 75%;
+  align-items: center;
+}

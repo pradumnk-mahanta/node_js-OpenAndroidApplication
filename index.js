@@ -11,6 +11,14 @@ app.get('/', function(request, response) {
   response.render('pages/index');
 });
 
+app.get('/CircularMotion', function(request, response) {
+  response.render('pages/circularmotion');
+});
+
+app.get('/OscillationMotion', function(request, response) {
+  response.render('pages/oscillationmotion');
+});
+
 app.listen(app.get('port'), function() {
   console.log('Node Application is Running on PORT:', app.get('port'));
 });
